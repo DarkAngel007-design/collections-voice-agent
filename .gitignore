@@ -1,0 +1,15 @@
+# secrets
+.env
+.env.*
+
+# local data and environments
+*.db
+*.db-journal
+.venv/
+__pycache__/
+
+# macOS
+.DS_Store
+
+# my pre-review copies (delete once you've compared)
+_original/
